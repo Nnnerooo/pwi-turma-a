@@ -1,2 +1,4 @@
 Tela principal
 Tela de login
+Tela de cadastro
+Tela de acesso
