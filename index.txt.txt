@@ -2,3 +2,4 @@ Tela principal
 Tela de login
 Tela de cadastro
 Tela de acesso
+Tela de cadastro de cliente
