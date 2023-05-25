@@ -105,3 +105,16 @@ form textarea{
 iframe{
     width: 100%;
 }
+footer{
+    background-image: url(../imgs/fundo-topo.jpg);
+}
+figure{
+    margin:0px 50% 0px 28% ;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 45%;
+}
+.hov a:hover{
+    color: #6dd432;
+}
